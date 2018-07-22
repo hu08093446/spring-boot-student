@@ -12,5 +12,6 @@ public class SpringBootStudentCacheRedisCaffeineApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootStudentCacheRedisCaffeineApplication.class, args);
+		System.out.println("我就试试能不能提交");
 	}
 }
